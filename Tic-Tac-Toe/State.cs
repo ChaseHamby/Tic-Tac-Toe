@@ -4,5 +4,5 @@ using System.Text;
 
 namespace Tic_Tac_Toe
 {
-    public enum State {  Undedcided, X, O };
+    public enum State {  Undedcided, X, O, Undecided };
 }
